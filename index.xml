@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saby Wont Stop Yapping</title>
-    <link>http://localhost:1313/</link>
+    <link>https://Sabywontstopyapping.github.io/</link>
     <description>Recent content on Saby Wont Stop Yapping</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 May 2024 20:33:02 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Sabywontstopyapping.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myfirstpost</title>
-      <link>http://localhost:1313/posts/myfirstpost/</link>
+      <link>https://Sabywontstopyapping.github.io/posts/myfirstpost/</link>
       <pubDate>Mon, 06 May 2024 20:33:02 -0400</pubDate>
-      <guid>http://localhost:1313/posts/myfirstpost/</guid>
+      <guid>https://Sabywontstopyapping.github.io/posts/myfirstpost/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/about_me/</link>
+      <link>https://Sabywontstopyapping.github.io/about/about_me/</link>
       <pubDate>Mon, 06 May 2024 18:27:57 -0400</pubDate>
-      <guid>http://localhost:1313/about/about_me/</guid>
+      <guid>https://Sabywontstopyapping.github.io/about/about_me/</guid>
       <description>Hey there I am Saby i&amp;rsquo;m the creator and admin of sabywontstopyapping. You might be wondering to yourself &amp;ldquo;Why the hell am I at this site and how did I get here or Why should I listen to you yapp&amp;rdquo; Well for that I can brake that down for you here and tell you a little bit about myself and you can decide if you want to listen to my delusions for a bit or not.</description>
     </item>
     <item>
       <title>Hello_55</title>
-      <link>http://localhost:1313/ctf_stuff/ctf_ex/</link>
+      <link>https://Sabywontstopyapping.github.io/ctf_stuff/ctf_ex/</link>
       <pubDate>Mon, 06 May 2024 18:03:08 -0400</pubDate>
-      <guid>http://localhost:1313/ctf_stuff/ctf_ex/</guid>
+      <guid>https://Sabywontstopyapping.github.io/ctf_stuff/ctf_ex/</guid>
       <description>Why in the world do I keep yapping?</description>
     </item>
   </channel>
