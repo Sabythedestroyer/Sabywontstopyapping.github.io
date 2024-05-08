@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTF_Stuff on Saby Wont Stop Yapping</title>
+    <link>http://localhost:1313/ctf_stuff/</link>
+    <description>Recent content in CTF_Stuff on Saby Wont Stop Yapping</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 May 2024 18:03:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/ctf_stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_55</title>
+      <link>http://localhost:1313/ctf_stuff/ctf_ex/</link>
+      <pubDate>Mon, 06 May 2024 18:03:08 -0400</pubDate>
+      <guid>http://localhost:1313/ctf_stuff/ctf_ex/</guid>
+      <description>Why in the world do I keep yapping?</description>
+    </item>
+  </channel>
+</rss>
